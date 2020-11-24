@@ -28,7 +28,7 @@
     "has-binary": "^0.1.5",
     "hat": "0.0.3",
     "simple-peer": "~5.11.8",
-    "socket.io-p2p-parser": "tomcartwrightuk/socket.io-p2p-parser",
+    "socket.io-p2p-parser": "git+https://github.com/tomcartwrightuk/socket.io-p2p-parser.git#1091624",
     "to-array": "^0.1.4",
     "webrtcsupport": "^2.1.2"
   },
